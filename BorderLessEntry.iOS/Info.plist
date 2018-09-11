@@ -25,7 +25,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>BorderLessEntry</string>
 	<key>CFBundleIdentifier</key>
-	<string>Bluelupin.BorderLessEntry</string>
+	<string>BorderLessEntry</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>UILaunchStoryboardName</key>
