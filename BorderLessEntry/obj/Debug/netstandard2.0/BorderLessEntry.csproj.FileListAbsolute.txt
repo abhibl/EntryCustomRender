@@ -1,0 +1,12 @@
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/bin/Debug/netstandard2.0/BorderLessEntry.deps.json
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/bin/Debug/netstandard2.0/BorderLessEntry.dll
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/bin/Debug/netstandard2.0/BorderLessEntry.pdb
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/BorderLessEntry.csprojResolveAssemblyReference.cache
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/BorderLessEntry.csproj.CoreCompileInputs.cache
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/BorderLessEntry.AssemblyInfoInputs.cache
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/BorderLessEntry.AssemblyInfo.cs
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/BorderLessEntry.dll
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/BorderLessEntry.pdb
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abhi/Documents/New POC/BorderLessEntry/BorderLessEntry/obj/Debug/netstandard2.0/XamlC.stamp

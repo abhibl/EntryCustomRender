@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{CA4795DB-CA1B-4762-914F-A92FCE782592}|Default">
+  <MonoDevelop.Ide.ItemProperties.BorderLessEntry.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9A5774C0-E323-44D1-8C90-1F82196A51BD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BorderLessEntry.Android/CustomEntryRenderer.cs">
+    <Files>
+      <File FileName="BorderLessEntry/MainPage.xaml" Line="13" Column="16" />
+      <File FileName="BorderLessEntry/CustomEntry.cs" Line="10" Column="2" />
+      <File FileName="BorderLessEntry.Android/CustomEntryRenderer.cs" Line="35" Column="1" />
+      <File FileName="BorderLessEntry.iOS/CustomEntryRenderer.cs" Line="27" Column="2" />
+      <File FileName="BorderLessEntry.Android/MainActivity.cs" Line="25" Column="6" />
+      <File FileName="BorderLessEntry.iOS/Entitlements.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BorderLessEntry.Android PreferredExecutionTarget="Android.HKL3G1NH" />
+  <MultiItemStartupConfigurations />
+</Properties>
